@@ -1,0 +1,10 @@
+* {
+    font-size: 150px;
+    text-align: center;
+    color: red;
+}
+body {
+    background-color: rgb(20, 137, 233);
+    margin: 200px auto 200px auto;
+    padding: 0px;
+}
